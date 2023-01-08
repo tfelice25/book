@@ -29,3 +29,5 @@ You can use the included [`Makefile`](https://en.wikipedia.org/wiki/Makefile) to
 - **`make serve`** to serve a local copy of the book for development (with auto-refreshing browser).
 
 - **`make deploy`** to publish the built book to `https://info201.github.io`.
+these are my edits to the file (**Thalia Felice**)
+atom is in sunset and links to the course book repo don't work as of Jan 2023
